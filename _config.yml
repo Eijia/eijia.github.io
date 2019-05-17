@@ -20,7 +20,7 @@ webtitle: '欢迎来到Eijia的HOME'
 bio: '哈哈哈哈哈哈哈哈哈'
 about: true
 aboutyou: '没什么好介绍的'
-portraits: '/assets/profile.jpeg' # your portraits image file path
+portraits: '/assets/profile.jpg' # your portraits image file path
 
 # SNS
 SNS: true
